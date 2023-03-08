@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_name">City name</string>
+    <string name="city_input_hint">Enter City Name</string>
+    <string name="forecast">Today\'s Weather Forecast</string>
+    <string name="card_time">Time</string>
+</resources>
